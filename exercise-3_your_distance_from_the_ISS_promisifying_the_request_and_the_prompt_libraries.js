@@ -38,11 +38,7 @@ prompt.start();
     console.error(err);
 });
             
-            
-            
-            
-        
-//Step 5 : Calculate the distance between the user latitude and longitude and the Iss latitude and longitude
+//Step 5 : Calculate the distance between the user latitude and longitude and the Iss latitude and longitud
 
 function distance(userLatitude, userLongitude, issLat, issLng) {
 var R = 6371000; // metres
